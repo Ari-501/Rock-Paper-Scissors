@@ -1,4 +1,4 @@
-Rock Paper Scissors Game
+# Rock Paper Scissors Game
 
 Live link: https://arig501.github.io/Rock-Paper-Scissors/
 
